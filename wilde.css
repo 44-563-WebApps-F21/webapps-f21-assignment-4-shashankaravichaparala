@@ -35,3 +35,13 @@ table { border: dashed 5px crimson;
     text-align: left;}
     tr:nth-child(even)
     {background-color: lightcoral;}
+
+    h6.HESTER:hover{
+        text-shadow: rgb(189, 110, 190);
+        border-style: outset;
+    }
+    
+    h6.GERALD:hover{
+        text-shadow: rgb(190, 160, 210);
+        border-style: outset;
+    }
