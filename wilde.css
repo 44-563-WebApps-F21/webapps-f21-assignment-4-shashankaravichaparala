@@ -25,3 +25,13 @@ color: rgb(64, 243, 124);
 h6.ALLONBY {
 color: rgb(214, 148, 62);
 }
+
+table { border: dashed 5px crimson;
+    border-collapse: separate;}
+    table.collapsing {
+    border: solid 5px;
+    border-collapse: collapse;}
+    td, th {border: solid 1px ;
+    text-align: left;}
+    tr:nth-child(even)
+    {background-color: lightcoral;}
